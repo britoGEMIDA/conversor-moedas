@@ -42,6 +42,10 @@
     font-size: 1rem;
     color: #495057;
 }
+.converter h3 {
+    font-size: 1.5rem;
+    color: Blue;
+}
 
 /*Define um estilo adicional para o elemento p*/
 .converter p {
